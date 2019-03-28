@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>王博轩---个人站</title>
+    <description>随便写写，什么都写，什么都不会。
+</description>
+    <link>http://wangbx.com.cn/</link>
+    <atom:link href="http://wangbx.com.cn/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 23 Jan 2019 15:58:47 +0800</pubDate>
+    <lastBuildDate>Wed, 23 Jan 2019 15:58:47 +0800</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>随便写一写的测试文件</title>
+        <description>&lt;p&gt;这个东西就这样就可以了吗&lt;/p&gt;
+</description>
+        <pubDate>Wed, 23 Jan 2019 00:00:00 +0800</pubDate>
+        <link>http://wangbx.com.cn/2019/01/23/test.html</link>
+        <guid isPermaLink="true">http://wangbx.com.cn/2019/01/23/test.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
